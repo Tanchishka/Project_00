@@ -29,3 +29,5 @@ for name_product, code_product in titles.items():
         total_price += all_quantity * all_price
         total_quantity += all_quantity
     print('{0} - {1} шт, стоимость  {2} руб'.format(name_product, total_quantity, total_price))
+
+#     Отлично
